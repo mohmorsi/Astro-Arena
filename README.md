@@ -1,5 +1,5 @@
 # Sector-Sweep
-My beginner Unity 2D Game
+Simple Unity 2D Game
 
 # Objective
 Test out my knowldege on making games using Unity
