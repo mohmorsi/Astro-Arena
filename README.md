@@ -1,11 +1,10 @@
 # Sector-Sweep
 
-![project image](./img/unity.png)
+![](https://media.giphy.com/media/H6t9TO0WPVZPTqUkEl/giphy.gif)
 
 ## Table of Contents
 * [Description](#description)
 * [Objective](#objective)
-* [Demo](#demo)
 * [Usage](#usage)
 * [Contributors](#contributors)
 * [Questions](#Questions)
@@ -15,9 +14,6 @@ Simple Unity 2D Game
 
 # Objective
 Test out my knowldege on making games using Unity
-
-# Demo
-![](https://media.giphy.com/media/H6t9TO0WPVZPTqUkEl/giphy.gif)
 
 # Usage
 Unity Game Engine
