@@ -1,4 +1,4 @@
-# Sector-Sweep
+# Astro Arena
 
 ![](https://media.giphy.com/media/H6t9TO0WPVZPTqUkEl/giphy.gif)
 
